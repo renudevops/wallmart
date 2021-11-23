@@ -1,3 +1,6 @@
 .classpath
 .settings
 /node_modules
+*.class
+*.c
+/deploy/.sh
